@@ -1,0 +1,13 @@
+.body_background{
+    background-image: url("fondo.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color:rgb(5, 0, 7);
+    font-size: 40px;
+}
+#myCanvas{
+    background-color: aliceblue;
+    border-radius: 20px;
+}
